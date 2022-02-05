@@ -21,7 +21,7 @@ This approach gives good results for recovering low-rank and the sparse matrices
 
 ### Results
 
-<img src="/result.gif" width="600" height="180"/>
+<img src="/result.gif" width="1200" height="360"/>
 
 ### Dataset
 Carnegie Mellon Test Images Sequences 500frames=25seconds (Y. Sheikh,Robotics  Institute,  Canergie  Mellon  University,  USA)  (1  video,  GT  images  for  the  se-quence)
