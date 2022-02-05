@@ -1,9 +1,10 @@
 # Decomposition into Low-Rank and Sparse Matrices 
 PCP was proposed and developed by Candes et al ( https://arxiv.org/pdf/0912. 3599.pdf ) via an alternating direction methods to solve RPCA problem:
 
-minimize | L | ∗ + | S | 1 subject to L + S = M
+*minimize*: ||L||∗ + ||S||1 <br />
+*subject to*: L + S = M
 
-where | L | ∗ - is a nuclear norm, | S | 1 - is a L1-norm.
+where ||L||∗ - is a nuclear norm, ||S||1 - is a L1-norm.
 
 
 
